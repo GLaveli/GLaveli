@@ -31,6 +31,7 @@
    <img style="padding-right: 30px" alt="GLaveli-Js" src="https://icongr.am/devicon/html5-original.svg?size=30&color=e17547">
    <img style="padding-right: 30px" alt="GLaveli-Js" src="https://icongr.am/devicon/css3-original.svg?size=30&color=e17547">
    <img style="padding-right: 30px" alt="GLaveli-Js" src="https://icongr.am/devicon/javascript-original.svg?size=30&color=e17547">
+   <img style="padding-right: 30px" alt="GLaveli-Js" src="https://icongr.am/devicon/typescript-original.svg?size=30&color=e17547">
      
  
   <img style="padding-right: 30px" alt="GLaveli-Js" src="https://icongr.am/devicon/docker-original.svg?size=30&color=e17547">
