@@ -22,31 +22,7 @@
   
   <br>
 
-<div  align="center">
-  
-   <img style="padding-right: 90px" alt="GLaveli-Js" src="https://icongr.am/devicon/nodejs-original.svg?size=30&color=0a9de6">
-   <img style="padding-right: 30px" alt="GLaveli-Js" src="https://icongr.am/devicon/react-original.svg?size=30&color=0a9de6">  
-   <img style="padding-right: 30px" alt="GLaveli-Js" src="https://icongr.am/devicon/java-original.svg?size=30&color=e17547">
-  
-   <img style="padding-right: 30px" alt="GLaveli-Js" src="https://icongr.am/devicon/html5-original.svg?size=30&color=e17547">
-   <img style="padding-right: 30px" alt="GLaveli-Js" src="https://icongr.am/devicon/css3-original.svg?size=30&color=e17547">
-   <img style="padding-right: 30px" alt="GLaveli-Js" src="https://icongr.am/devicon/javascript-original.svg?size=30&color=e17547">
-   <img style="padding-right: 30px" alt="GLaveli-Js" src="https://icongr.am/devicon/typescript-original.svg?size=30&color=e17547">
-     
- 
-  <img style="padding-right: 30px" alt="GLaveli-Js" src="https://icongr.am/devicon/docker-original.svg?size=30&color=e17547">
-  <img style="padding-right: 30px" alt="GLaveli-Js" src="https://icongr.am/devicon/nginx-original.svg?size=30&color=e17547">
-  <img style="padding-right: 30px" alt="GLaveli-Js" src="https://icongr.am/devicon/visualstudio-plain.svg?size=30&color=e17547">
-  <img style="padding-right: 30px" alt="GLaveli-Js" src="https://icongr.am/devicon/ionic-original.svg?size=30&color=e17547">
 
-  
-  <img style="padding-right: 30px" alt="GLaveli-Js" src="https://icongr.am/devicon/heroku-original.svg?size=30&color=e17547">
-  <img style="padding-right: 30px" alt="GLaveli-Js" src="https://icongr.am/devicon/mysql-original.svg?size=30&color=e17547">
-  <img style="padding-right: 30px" alt="GLaveli-Js" src="https://icongr.am/devicon/postgresql-original.svg?size=30&color=e17547">
-  <img style="padding-right: 30px" alt="GLaveli-Js" src="https://icongr.am/devicon/mongodb-original.svg?size=30&color=e17547">
-
-
-</div>
   
   
 <div align="center">  
